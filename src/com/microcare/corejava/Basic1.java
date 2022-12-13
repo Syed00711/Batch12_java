@@ -5,7 +5,7 @@ package com.microcare.corejava;
  * 
  */
 
-public class Basic1{
+public class Basic1 extends Basic{
 	//variables,methods,class
 	 static int num =999;
 	//global,local

@@ -1,7 +1,7 @@
 package com.microcare.corejava;
 import com.microcare.corejava.Basic1;
 
-public class Basic {
+ class Basic {
 
 	static boolean decision;
 	static int number;
