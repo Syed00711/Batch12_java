@@ -9,10 +9,7 @@ public class Dog
         this.name = name;
     }
 
-    public boolean equals(Object other)
-    {
-        // ADD CODE HERE
-    }
+   
 
     public static void main(String[] args)
     {

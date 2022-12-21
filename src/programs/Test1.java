@@ -13,4 +13,11 @@ public class Test1
     {
           talk("Matthew");
     }
+
+
+
+	private static void talk(String string) {
+		// TODO Auto-generated method stub
+		
+	}
 }

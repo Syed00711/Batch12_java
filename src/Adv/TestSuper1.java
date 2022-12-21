@@ -10,7 +10,9 @@ class Dog extends Animal{
 String color="black";
 
 void printColor(){  
-System.out.println(color);//prints color of Dog class  
+	String color="red";
+	System.out.println(color);
+System.out.println(this.color);//prints color of Dog class  
 System.out.println(super.color);//prints color of Animal class  
 }  
 

@@ -4,7 +4,7 @@ public class Candy
 {
     public String taste()
     {
-        return "tastes sweet!"
+        return "tastes sweet!";
     }
 
     public static void main(String[] args)

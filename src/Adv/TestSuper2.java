@@ -2,7 +2,7 @@ package Adv;
 
 class Animal1{ 
 	
-void eat(){System.out.println("eating...");
+void eat(String what){System.out.println("eating..."+what);
 }  
 }  
 
@@ -17,9 +17,10 @@ void bark(){
 	}  
 
 void work(){  
-	
-super.eat();  
+	eat(); 
+
 bark();  
+super.eat("Pizza");  
 }  
 
 }  
